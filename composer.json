@@ -1,5 +1,5 @@
 {
-    "name": "pear/system_daemon",
+    "name": "openbuildings/system_daemon",
     "description": "A port of the PEAR class to create Daemons with pure PHP",
     "require": {
         "php": ">=5.3.0"
